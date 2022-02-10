@@ -1,0 +1,174 @@
+[
+    {
+        "site": "GitHub",
+        "url": "https://cloud.google.com/",
+        "image": "./github.png"
+    },
+    {
+        "site": "Clouflare",
+        "url": "https://cloud.google.com/",
+        "image": "./cloudflare.png"
+    },
+    {
+        "site": "Amazon Web Services",
+        "url": "https://cloud.google.com/",
+        "image": "./aws.png"
+    },
+    {
+        "site": "Google Cloud Platform",
+        "url": "https://cloud.google.com/",
+        "image": "./gcp.png"
+    },
+    {
+        "site": "Docker",
+        "url": "https://cloud.google.com/",
+        "image": "./docker.png"
+    },
+    {
+        "site": "StackOverflow",
+        "url": "https://cloud.google.com/",
+        "image": "./stackoverflow.png"
+    },
+    {
+        "site": "LeetCode",
+        "url": "https://cloud.google.com/",
+        "image": "./leetcode.png"
+    },
+    {
+        "site": "LinkedIn",
+        "url": "https://cloud.google.com/",
+        "image": "./linkedin.png"
+    },
+    {
+        "site": "Kaggle",
+        "url": "https://cloud.google.com/",
+        "image": "./kaggle.webp"
+    },
+    {
+        "site": "Desmos",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Unionbank",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "PNB",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "BPI",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Metrobank",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Binance",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Coinbase",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "COL Financial",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "FirstMetroSec",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Notion",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "MongoDB",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Redis",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "PayPal",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Wise",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Ko-fi",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Twitch",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Netflix",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "YouTube",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Steam",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Epic Games",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Slack",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "PDAX",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Meet",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Drive",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    },
+    {
+        "site": "Docs",
+        "url": "https://cloud.google.com/",
+        "image": "./.png"
+    }
+
+    
+]
